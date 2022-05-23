@@ -1,0 +1,54 @@
+{
+  "transactions": [
+    {
+      "Uniqueid": "001",
+      "TransactionDateUTC": "2012-04-23T18:25:43.511Z",
+      "Itinerary": "3",
+      "OriginAirportCode": "GRU",
+      "DestinationAirportCode": "AMS",
+      "Segment":[
+        {
+          "Id": "1",
+          "DepartureAirportCode": "GRU",
+          "ArrivalAirportCode": "GIG",
+          "SegmentNumber": "123",
+          "LegNumber": "3",
+          "NumberOfPassengers": "160"
+        },
+        {
+          "Id": "2",
+          "DepartureAirportCode": "GIG",
+          "ArrivalAirportCode": "JFK",
+          "SegmentNumber": "435",
+          "LegNumber": "4",
+          "NumberOfPassengers": "200"
+        },
+        {
+          "Id": "3",
+          "DepartureAirportCode": "JFK",
+          "ArrivalAirportCode": "AMS",
+          "SegmentNumber": "675",
+          "LegNumber": "5",
+          "NumberOfPassengers": "210"
+        }
+      ]
+    },
+    {
+      "Uniqueid": "002",
+      "TransactionDateUTC": "2012-04-23T18:26:43.312Z",
+      "Itinerary": "2",
+      "OriginAirportCode": "GRU",
+      "DestinationAirportCode": "BKK",
+      "Segment": [
+        {
+          "Id": "1",
+          "DepartureAirportCode": "GRU",
+          "ArrivalAirportCode": "BKK",
+          "SegmentNumber": "687",
+          "LegNumber": "1",
+          "NumberOfPassengers": "160"
+        }
+      ]
+    }
+  ]
+}

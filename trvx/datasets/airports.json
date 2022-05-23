@@ -1,0 +1,38 @@
+[
+  {
+    "AirportCode": "ATL",
+    "CountryName": "United States",
+    "Region": "AMER",
+    "airportId": "3682"
+  },
+  {
+    "AirportCode": "GIG",
+    "CountryName": "Brazil",
+    "Region": "AMER",
+    "airportId": "2560"
+  },
+  {
+    "AirportCode": "BCN",
+    "CountryName": "Spain",
+    "Region": "EUR",
+    "airportId": "1218"
+  },
+  {
+    "AirportCode": "AMS",
+    "CountryName": "Netherlands",
+    "Region": "EUR",
+    "airportId": "0001"
+  },
+  {
+    "AirportCode": "BKK",
+    "CountryName": "Bangkok",
+    "Region": "ASIA",
+    "airportId": "3885"
+  },
+  {
+    "AirportCode": "SYD",
+    "CountryName": "Australia",
+    "Region": "OCE",
+    "airportId": "3361"
+  }
+]
